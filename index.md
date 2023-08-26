@@ -4,4 +4,4 @@
 
 ## Here's some blogs to keep you company.
 
-### [Blog 1](blog1.md)
+### [Blog 1 - Arcade Games](blog1.md)
