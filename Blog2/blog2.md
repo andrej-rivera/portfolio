@@ -18,12 +18,12 @@ It should be noted that you don't necessarily have to have the card to take the 
 # **Session Report**
 ![Alt text](image.png)
 
-### Pre-Round
+## Pre-Round
 Everyone starts with two cards and two coins.
 
 All cards are hidden.
 __________________________
-### Round 1 begins
+## Round 1 begins
 **Player 1 Turn:** Grabs 1 coin and plays it safe. *(Income)*
 
 **Player 2 Turn:** Grabs 2 coins to test the waters. *(Foreign Aid)*
@@ -44,7 +44,7 @@ __________________________
 
 
 
-### Round 1 concludes
+## Round 1 concludes
 Player 1 has two cards - unknown
 
 Player 2 has two cards - unknown
@@ -53,7 +53,7 @@ Player 3 has one card - unknown, lost a Contessa, returns a Captain
 
 Player 4 has one card - unknown, lost an Ambassador, returns a Duke
 __________________________________________________________________
-### Round 2 begins
+## Round 2 begins
 *Note: All players know that Player 4 no longer has a Duke to stop the foreign aid.*
 
 **Player 1 Turn:** Grabs 2 coins to test the waters. *(Foreign Aid)*
@@ -70,7 +70,7 @@ __________________________________________________________________
 - Player 1 does not pursue.
 - Player 1 collects grudges.
 
-### Round 2 concludes
+## Round 2 concludes
 Player 1 has two cards - unknown
 
 Player 2 has two cards - unknown, claims to have a Captain
@@ -80,7 +80,7 @@ Player 3 has one card - unknown, claims to have a Captain
 Player 4 has one card - unknown, claims to have a Captain
 
 ______________________________
-### Round 3 begins
+## Round 3 begins
 **Player 1 turn:** Grabs 2 coins safely. *(Foreign Aid)*
 
 **Player 2 turn:** Grabs 2 coins safely. *(Foreign Aid)*
@@ -94,7 +94,7 @@ ______________________________
 
 **Player 4 turn:** Skipped accidentally.
 
-### Round 3 concludes
+## Round 3 concludes
 *Player 1 is eliminated*
 
 Player 2 has two cards - unknown, claims to have a Captain
@@ -104,7 +104,7 @@ Player 3 has one card - unknown, claims to have a Captain or an Assassin
 Player 4 has one card - unknown, claims to have a Captain
 
 __________________________
-### Round 4 begins
+## Round 4 begins
 **Player 2 Turn:** Swaps two cards from center deck. *(Ambassador - Swap)*
 
 
@@ -118,14 +118,14 @@ __________________________
 - **Reaction:** Player 2 blocks the steal.
   - Player 4, remembering that Player 2 swapped cards, gives up.
 
-### Round 4 concludes
+## Round 4 concludes
 Player 2 has two cards - unknown, recently swapped, claims to have a Duke or an Ambassador
 
 Player 3 has one card - unknown, claims to have a Captain or an Assassin
 
 Player 4 has one card - Captain
 ___________________________
-### Round 5 begins
+## Round 5 begins
 **Player 2 Turn:** Grab 2 coins safely. *(Foreign Aid)*
 
 **Player 3 Turn:** Spends 3 coins, assassinate Player 2. *(Assassin - Assassinate)*
@@ -135,14 +135,14 @@ ___________________________
 
 **Player 4 Turn:** Grabs 2 coins (Foreign Aid)
 
-### Round 5 concludes
+## Round 5 concludes
 *Player 2 is eliminated*
 
 Player 3 has one card - unknown, claims to have a Captain or Assassin
 
 Player 4 has one card - Captain
 _________________________________
-### Round 6-7 begins    **ENDGAME**
+## Round 6-7 begins    **ENDGAME**
 **Player 3 Turn:** Grabs 2 coins. *(Foreign Aid)*
 
 **Player 4 Turn:** Steals from Player 3. *(Captain - Steal)*
@@ -153,10 +153,10 @@ _________________________________
 **Player 3 Turn:** Grab 2 coins (Foreign Aid).
 
 
-### Game Concludes - **Player 4 Wins**
+## Game Concludes - **Player 4 Wins**
 **Player 4 Turn:** Coups Player 3's remaining card
 
 In a surprising twist of fate, Player 3 goes down after making short work of the other two. Player 4 who has bided their time has come out on top.
 
-## Thoughts
+# Thoughts
 Personally, Coup was a very simple but fun game of deception. The different ways you can bluff and manipulate your opponents are very interesting. If somebody steals your coins with the Guard's Steal action, you can either bluff that you have a card to block the steal or call out that your opponent doesn't have the guard. If you do bluff, then your opponent is forced to either give up or risk their cards to call you out. Almost every action in the game is risky which makes the stakes high for every bluff. Not lying and playing honest in Coup is a severe disadvantage.
