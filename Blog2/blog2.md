@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src = "coup.webp">
+</p>
+
 # Overview
 This entry is dedicated to a Session Report based on one game of Coup. In this session report, a glimpse of the strategies and gameplay that can be experienced in Coup is shown. The exact actions played in the game are recorded so that the same game can be recreated by following the same actions.
 
