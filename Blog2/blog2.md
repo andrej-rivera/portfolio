@@ -22,7 +22,7 @@ It should be noted that you don't necessarily have to have the card to take the 
 Everyone starts with two cards and two coins.
 
 All cards are hidden.
-__________________________
+
 ## Round 1 begins
 **Player 1 Turn:** Grabs 1 coin and plays it safe. *(Income)*
 
@@ -44,7 +44,7 @@ __________________________
 
 
 
-## Round 1 concludes
+### Round 1 concludes
 Player 1 has two cards - unknown
 
 Player 2 has two cards - unknown
@@ -52,7 +52,8 @@ Player 2 has two cards - unknown
 Player 3 has one card - unknown, lost a Contessa, returns a Captain
 
 Player 4 has one card - unknown, lost an Ambassador, returns a Duke
-__________________________________________________________________
+
+
 ## Round 2 begins
 *Note: All players know that Player 4 no longer has a Duke to stop the foreign aid.*
 
@@ -70,7 +71,7 @@ __________________________________________________________________
 - Player 1 does not pursue.
 - Player 1 collects grudges.
 
-## Round 2 concludes
+### Round 2 concludes
 Player 1 has two cards - unknown
 
 Player 2 has two cards - unknown, claims to have a Captain
@@ -79,7 +80,7 @@ Player 3 has one card - unknown, claims to have a Captain
 
 Player 4 has one card - unknown, claims to have a Captain
 
-______________________________
+
 ## Round 3 begins
 **Player 1 turn:** Grabs 2 coins safely. *(Foreign Aid)*
 
@@ -94,7 +95,7 @@ ______________________________
 
 **Player 4 turn:** Skipped accidentally.
 
-## Round 3 concludes
+### Round 3 concludes
 *Player 1 is eliminated*
 
 Player 2 has two cards - unknown, claims to have a Captain
@@ -103,7 +104,7 @@ Player 3 has one card - unknown, claims to have a Captain or an Assassin
 
 Player 4 has one card - unknown, claims to have a Captain
 
-__________________________
+
 ## Round 4 begins
 **Player 2 Turn:** Swaps two cards from center deck. *(Ambassador - Swap)*
 
@@ -118,13 +119,13 @@ __________________________
 - **Reaction:** Player 2 blocks the steal.
   - Player 4, remembering that Player 2 swapped cards, gives up.
 
-## Round 4 concludes
+### Round 4 concludes
 Player 2 has two cards - unknown, recently swapped, claims to have a Duke or an Ambassador
 
 Player 3 has one card - unknown, claims to have a Captain or an Assassin
 
 Player 4 has one card - Captain
-___________________________
+
 ## Round 5 begins
 **Player 2 Turn:** Grab 2 coins safely. *(Foreign Aid)*
 
@@ -135,13 +136,13 @@ ___________________________
 
 **Player 4 Turn:** Grabs 2 coins (Foreign Aid)
 
-## Round 5 concludes
+### Round 5 concludes
 *Player 2 is eliminated*
 
 Player 3 has one card - unknown, claims to have a Captain or Assassin
 
 Player 4 has one card - Captain
-_________________________________
+
 ## Round 6-7 begins    **ENDGAME**
 **Player 3 Turn:** Grabs 2 coins. *(Foreign Aid)*
 
