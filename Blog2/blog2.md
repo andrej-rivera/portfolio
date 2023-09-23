@@ -1,3 +1,4 @@
+## Blog #02 - Session Report
 
 <p align="center">
   <img src = "coup.webp">
@@ -81,7 +82,7 @@ Player 3 has one card - unknown, claims to have a Captain
 Player 4 has one card - unknown, claims to have a Captain
 
 
-## Round 3 begins
+## Round 3 begins 
 **Player 1 turn:** Grabs 2 coins safely. *(Foreign Aid)*
 
 **Player 2 turn:** Grabs 2 coins safely. *(Foreign Aid)*
