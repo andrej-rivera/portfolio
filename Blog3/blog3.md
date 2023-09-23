@@ -58,11 +58,14 @@ For Takeover v2, the new rules were as follows:
 - **Players start with three pawns**
 - **Controlling a checkpoint allows you to move a pawn into the adjacent sector.**
 - **Players have three possible actions:**
-  1) Move (Into different sectors or empty checkpoints)
+  
+  1. Move (Into different sectors or empty checkpoints)
      - Multiple pawns can be on a checkpoint
-  2) Attack (RPS Duel)
+  
+  2. Attack (RPS Duel)
      - **When attacking a checkpoint, defenders win ties**
-  3) Takeover 
+  
+  3. Takeover 
      - If there are no enemy pawns in a sector, you can capture a base if it hasn't been captured yet.
      - **Capturing a base replenishes all of your units along with an additional unit**
 - **The last one standing wins**
@@ -95,8 +98,10 @@ The changes are as follows:
 - **Players do not control a checkpoint at the start of the game**
 - **The turn order is clockwise but Flow can be in any direction**
 - **Two Win Conditions**
-  1) **Last One Standing**
-  2) **Control All Checkpoints**
+  
+  1. **Last One Standing**
+  
+  2. **Control All Checkpoints**
 
 The full set of the rules can be found [here.](https://docs.google.com/document/d/17f8A_u-n2co6ALROVF-oOLZlbsD-QDHRrPCDBazV-G4/edit?usp=sharing)
 
