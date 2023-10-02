@@ -6,7 +6,9 @@ Before we dive into the games, I would like to first talk about the differences 
 
 When you play a game, you experience it the way that it's meant to be experienced. Of course, there are some exceptions to this but most games are created with the assumption that people are going to play it. Personally, I feel that this is the best way to experience a game for the first time but there are also some good reasons why you should observe others play.
 
-When you observe a game, you experience the game in a different perspective. Since you aren't currently playing the game, you can take a step back and notice details that the player may not notice. Observers have the freedom to not focus on the main mechanics of the game, looking at the bigger picture instead. This is very useful when creating games because you can see how players interact with the game and their reactions. It's also very entertaining because . . . you can see how they interact and their reactions.
+When you observe a game, you experience the game in a different perspective. Since you aren't currently playing the game, you can take a step back and notice details that the player may not notice. Observers have the freedom to not focus on the main mechanics of the game, looking at the bigger picture instead. This is very useful when creating games because you can see how players interact with the game and their reactions. It's also very entertaining because . . . you can see how they interact and their reactions. 
+
+I will say though, there are some types of games where observing is taking away from the experience rather than adding to it. Heavy mechanic-based like VR games which rely on real-life player movement are much funner to play than watch.
 
 If you're a first-time game purist, I recommend you play the games I list down below first before reading my review. Of course, there is no shame in reading before you jump in and spend time on a game as well.
 
