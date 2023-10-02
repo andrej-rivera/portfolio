@@ -2,7 +2,7 @@
 In this post, I'll be giving a brief look over three interesting games that I found. These games may not be the best but they bring some unique takes on the genres that they're in.
 
 ### Observing Vs. Playing
-Before we dive into the games, I would like to first write about the differences between observing someone play a game and actually playing it yourself. 
+Before we dive into the games, I would like to first talk about the differences between observing someone play a game and actually playing it yourself. 
 
 When you play a game, you experience it the way that it's meant to be experienced. Of course, there are some exceptions to this but most games are created with the assumption that people are going to play it. Personally, I feel that this is the best way to experience a game for the first time but there are also some good reasons why you should observe others play.
 
