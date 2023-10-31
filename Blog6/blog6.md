@@ -12,7 +12,7 @@ At its current state, *A Slime's Small Adventure* contains a single level that w
 
 The game can be played here:
 
-https://adinhh20.itch.io/a-slimes-small-adventure
+[https://adinhh20.itch.io/a-slimes-small-adventure](https://adinhh20.itch.io/a-slimes-small-adventure)
 
 ### Other Comments
 Because of the limited timeframe given to work on the game, there are quite a few features that I would've liked to implement if I had the time to. 

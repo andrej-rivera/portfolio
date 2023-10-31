@@ -1,5 +1,7 @@
 ## Blog #05 - Creating a Game Prototype
 For the past few weeks, I've been creating a game called *A Slime's Small Adventure*. During this creation process, I had many first time experiences as a beginner artist and game designer. Before going into this post, it should stated that I am not an artist. Prior to this game, I had zero experience with making pixel art and had no idea how to be artistic *at all*. My journey going from programmer to artist is detailed here.
+#### Small Update
+[The Prototype is out! Check it out in Blog 6!](../Blog6/blog6.md)
 
 # *A Slime's Small Adventure*
 ![Alt text](image.png)
