@@ -1,5 +1,5 @@
 ## Blog #06 - The Prototype
-[It's been around a week since I last wrote about my video game prototype.](..\Blog5\blog5.md) I'm proud to announce that it has reached a (mostly) finished state! I'll be going over a short overview of what the game is about and what the general gameplay is like.
+[It's been around a week since I last wrote about my video game prototype.](../Blog5/blog5.md) I'm proud to announce that it has reached a (mostly) finished state! I'll be going over a short overview of what the game is about and what the general gameplay is like.
 ## [A Slime's Small Adventure](https://adinhh20.itch.io/a-slimes-small-adventure)
 ![Alt text](image.png)
 In *A Slime's Small Adventure*, you play as the Slime. A squishy, blobby creature that is neither solid nor liquid. In an unfamiliar environment, your goal is to explore and to escape into the outside world. Solve puzzles, jump over pits, and climb obstacles as you roll around.
