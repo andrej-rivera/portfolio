@@ -9,4 +9,4 @@
 ### [Blog 3 - Takeover!](Blog3/blog3.md)
 ### [Blog 4 - Game Connection Analysis](Blog4/blog4.md)
 ### [Blog 5 - Creating a Game](Blog5/blog5.md)
-
+### [Blog 6 - The Prototype](Blog6/blog6.md)
