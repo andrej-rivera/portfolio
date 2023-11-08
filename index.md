@@ -10,3 +10,4 @@
 ### [Blog 4 - Game Connection Analysis](Blog4/blog4.md)
 ### [Blog 5 - Creating a Game](Blog5/blog5.md)
 ### [Blog 6 - The Prototype](Blog6/blog6.md)
+### [Blog 7 - Jackbox Experience](Blog7/blog7.md)
