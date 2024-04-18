@@ -2,23 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Andre&#39;s Internet Home</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://andrej-rivera.github.io/posts/</link>
     <description>Recent content in Posts on Andre&#39;s Internet Home</description>
     <image>
       <title>Andre&#39;s Internet Home</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://andrej-rivera.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://andrej-rivera.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.125.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Apr 2024 23:33:02 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Example</title>
-      <link>http://localhost:1313/posts/example/</link>
-      <pubDate>Wed, 17 Apr 2024 23:33:02 -0700</pubDate>
-      <guid>http://localhost:1313/posts/example/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://andrej-rivera.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
