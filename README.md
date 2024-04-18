@@ -1,2 +1,1 @@
-hello!
-this is the repo for my portfolio site
+andrej-rivera.github.io
