@@ -11,7 +11,7 @@ Hello again! This blog is a continuation of [*A Slime's Small Adventure - A Fini
 
 ## The Second Level
 ### Workflow Change
-![Alt text](tilegif-comp.gif)
+![Alt text](tilegif.gif)
 
 Before going into the design of the second level, I'll first go over some workflow changes that I made which allowed me to make Level Two a lot better than Level One. 
 
