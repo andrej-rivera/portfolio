@@ -1,6 +1,6 @@
 import { b as createAstro, c as createComponent, r as renderTemplate, m as maybeRenderHead, a as renderComponent, d as addAttribute } from './astro/server_N1ABseeZ.mjs';
 import 'kleur/colors';
-import { $ as $$FormattedDate } from './FormattedDate_DPzgHGWE.mjs';
+import { $ as $$FormattedDate } from './FormattedDate_BE7rGk4J.mjs';
 
 const $$Astro = createAstro("https://andre-rivera.netlify.com/");
 const $$PostPreview = createComponent(($$result, $$props, $$slots) => {

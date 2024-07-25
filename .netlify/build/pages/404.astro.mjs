@@ -1,6 +1,6 @@
 import { c as createComponent, r as renderTemplate, a as renderComponent, m as maybeRenderHead } from '../chunks/astro/server_N1ABseeZ.mjs';
 import 'kleur/colors';
-import { $ as $$Button, a as $$BaseLayout } from '../chunks/Button_CUEUfXwz.mjs';
+import { $ as $$Button, a as $$BaseLayout } from '../chunks/Button_D_WPeyx3.mjs';
 export { renderers } from '../renderers.mjs';
 
 const $$404 = createComponent(($$result, $$props, $$slots) => {

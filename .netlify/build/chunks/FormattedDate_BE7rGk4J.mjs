@@ -1,6 +1,6 @@
 import { b as createAstro, c as createComponent, r as renderTemplate, m as maybeRenderHead, d as addAttribute, s as spreadAttributes } from './astro/server_N1ABseeZ.mjs';
 import 'clsx';
-import { s as siteConfig } from './_astro_content_E-xlmXan.mjs';
+import { s as siteConfig } from './_astro_content_innPsx38.mjs';
 
 const dateFormat = new Intl.DateTimeFormat(siteConfig.date.locale, siteConfig.date.options);
 function getFormattedDate(date, options) {

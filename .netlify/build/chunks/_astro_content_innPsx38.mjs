@@ -202,7 +202,7 @@ createCollectionToGlobResultMap({
 });
 
 let lookupMap = {};
-lookupMap = {"post":{"type":"content","entries":{"devlog-3":"/src/content/post/devlog-3/index.md","devlog-1":"/src/content/post/devlog-1/index.md","devlog-2":"/src/content/post/devlog-2/index.md"}}};
+lookupMap = {"post":{"type":"content","entries":{"devlog-1":"/src/content/post/devlog-1/index.md","devlog-3":"/src/content/post/devlog-3/index.md","devlog-2":"/src/content/post/devlog-2/index.md"}}};
 
 function createGlobLookup(glob) {
 	return async (collection, lookupId) => {
