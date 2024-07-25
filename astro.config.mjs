@@ -14,7 +14,7 @@ import netlify from "@astrojs/netlify";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://andrej-rivera.github.io/',
+  site: 'https://andre-rivera.netlify.com/',
   integrations: [expressiveCode(expressiveCodeOptions), tailwind({
     applyBaseStyles: false
   }), sitemap(), mdx(), icon()],
