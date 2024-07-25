@@ -12,10 +12,10 @@ import astro from '../assets/about-astro.png'
 
 import { getAllPosts, sortMDByDate } from '@/utils'
 
-const languages = ['lorem', 'ipsum']
-const frontend = ['lorem', 'ipsum', 'lorem', 'ipsum', 'lorem', 'ipsum', 'lorem']
-const backend = ['lorem', 'ipsum', 'lorem', 'ipsum']
-const others = ['lorem', 'ipsum', 'lorem', 'ipsum', 'lorem']
+const languages = ['Java', 'C', 'C#', 'C++']
+const frontend = ['HTML', 'CSS', 'JavaScript', 'Astro']
+const backend = ['Java', 'Python', 'C', 'C#', 'C++', 'SQL']
+const others = ['Unity', 'Unreal Engine 5', 'OpenFrameworks']
 
 const MAX_POSTS = 10
 const allPosts = await getAllPosts()
@@ -33,9 +33,9 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS)
 			/>
 
 			<div class='flex flex-col items-center gap-y-4'>
-				<h1 class='text-3xl font-bold'>Lorem ipsum dolor</h1>
+				<h1 class='text-3xl font-bold'>Andre Rivera</h1>
 				<a
-					href='https://github.com/srleom/astro-theme-resume.git'
+					href='https://github.com/andrej-rivera'
 					class='flex flex-row items-center gap-x-3 rounded-3xl border border-input px-4 py-2 text-sm shadow-sm transition-all hover:shadow-md'
 				>
 					<span class='relative flex items-center justify-center'>
@@ -45,10 +45,10 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS)
 						<span class='relative inline-flex h-2 w-2 rounded-full bg-green-400'></span>
 					</span>
 
-					<p class='font-medium'>Get free template</p>
+					<p class='font-medium'>My GitHub</p>
 				</a>
 				<div class='flex flex-wrap justify-center gap-x-7 gap-y-3'>
-					<Label title='Lorem Ipsum'>
+					<Label title='San Jose State University'>
 						<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' class='h-5 w-5' slot='icon'
 							><path
 								fill='currentColor'
@@ -56,7 +56,7 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS)
 							></path></svg
 						>
 					</Label>
-					<Label title='Ipsum'>
+					<Label title='San Jose'>
 						<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' class='h-5 w-5' slot='icon'
 							><path
 								fill='currentColor'
@@ -67,7 +67,7 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS)
 					<Label
 						title='Connect on Linkedin'
 						as='a'
-						href='https://www.linkedin.com/in/example/'
+						href='https://www.linkedin.com/in/andrej-rivera/'
 						target='_blank'
 					>
 						<svg
@@ -87,10 +87,10 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS)
 
 		<Section title='About'>
 			<p class='text-muted-foreground'>
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis atque quia omnis
-				consectetur, voluptas praesentium veniam blanditiis ratione asperiores accusantium laborum
-				odit commodi quis deserunt incidunt et dolor iure ut! Lorem ipsum dolor sit, amet
-				consectetur adipisicing elit. Alias quia, doloribus ut beatae perspiciatis voluptatibus.
+				Hello! I'm Andre, a 4th-year pursuing a Bachelor's in Computer Science at San Jose State University.
+				I like making games and enjoy creating COOL things! 
+				In the past, I've taught as an assistant for CS classes and have developed multiple fun games that I've published here. 
+				The development process for a few of my projects can also be found on my blog for those that are interested!
 			</p>
 		</Section>
 		{
@@ -109,58 +109,52 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS)
 
 		<Section title='Experience'>
 			<Card
-				heading='Lorem Ipsum'
-				subheading='Sit amet consectetur'
-				date='Dec 2022 - Nov 2023'
+				heading='Learning Assistant'
+				subheading='Peer Connections @ SJSU'
+				date='Jan 2022 - May 2024'
 				imagePath='/src/assets/about-astro.png'
-				altText='Lorem, ipsum dolor sit'
+				altText='SJSU'
 				imageClass='h-12 w-auto md:-left-16'
 			>
 				<ul class='ml-4 list-disc text-muted-foreground'>
-					<li>
-						Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore debitis recusandae, ut
-						molestiae laboriosam pariatur!
-
-						<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, pariatur!</li>
-					</li>
+					<li> Coordinated with faculty to help facilitate class of 180 students in lecture setting </li>
+					<li> Participated in Train to Teach Science course to learn effective ways of breaking down and communicating confusing course material to students </li>
+					<li> Co-led labs of 30 students with lab instructors and decide course material relating to Data Structures and Algorithms with faculty </li>
 				</ul>
 			</Card>
 			<Card
-				heading='Lorem Ipsum'
-				subheading='Sit amet consectetur'
-				date='Dec 2022 - Nov 2023'
+				heading='Engineering Camp Instructor'
+				subheading='Engineering 4 Kids'
+				date='Jun 2023 - Aug 2023'
 				imagePath='/src/assets/about-astro.png'
-				altText='Lorem, ipsum dolor sit'
+				altText='E4K'
 				imageClass='h-12 w-auto md:-left-16'
-			/>
+			>
+			<ul class='ml-4 list-disc text-muted-foreground'>
+				<li> Instructed classrooms of up to 30 students from pre-k to grade 3 about engineering disciplines </li>
+				<li> Resolved conflicts with parents about payment and coursework issues </li>
+			</ul>
+			</Card>
+
 		</Section>
 
 		<Section title='Education'>
 			<Card
-				heading='Lorem Ipsum'
-				subheading='Sit amet consectetur'
-				date='Dec 2022 - Nov 2023'
+				heading='Bachelor of Science - Computer Science'
+				subheading='San Jose State University'
+				date='Dec 2022 - May 2025'
 				imagePath='/src/assets/about-astro.png'
-				altText='Lorem, ipsum dolor sit'
+				altText='SJSU'
 				imageClass='h-12 w-auto md:-left-16'
 			>
 				<ul class='ml-4 list-disc text-muted-foreground'>
-					<li>
-						Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore debitis recusandae, ut
-						molestiae laboriosam pariatur!
-
-						<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, pariatur!</li>
-					</li>
+					<li><b>GPA: 3.89/4.00</b> </li>
+					<li>Minoring in <b>Geology</b> and <b>Math</b></li>
+					<li><b>Relevant Course Work:</b> Data Structures and Algorithms, Object Oriented Design, 
+						Operating Systems, Database Systems, Artificial Intelligence, Game Design </li>
 				</ul>
 			</Card>
-			<Card
-				heading='Lorem Ipsum'
-				subheading='Sit amet consectetur'
-				date='Dec 2022 - Nov 2023'
-				imagePath='/src/assets/about-astro.png'
-				altText='Lorem, ipsum dolor sit'
-				imageClass='h-12 w-auto md:-left-16'
-			/>
+
 		</Section>
 
 		<Section title='Projects'>
@@ -184,31 +178,8 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS)
 			</div>
 		</Section>
 
-		<Section title='Certifications'>
-			<Card
-				as='a'
-				heading='Lorem ipsum, dolor sit amet consectetur adipisicing.'
-				subheading='Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam dicta magni consequuntur corrupti.'
-				date='Mar 2024 - Mar 2024'
-				imagePath='/src/assets/about-astro.png'
-				altText='Lorem, ipsum dolor sit'
-				imageClass='h-11 w-auto md:-left-16'
-				href='https://www.google.com'
-			/>
-			<Card
-				as='a'
-				heading='Lorem ipsum, dolor sit amet'
-				subheading='Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam dicta.'
-				date='Mar 2029 - Mar 2032'
-				imagePath='/src/assets/about-astro.png'
-				altText='Lorem, ipsum dolor sit'
-				imageClass='h-11 w-auto md:-left-16'
-				href='https://www.google.com'
-			/>
-		</Section>
-
 		<Section title='Skills'>
-			<SkillLayout title='Languages' skills={languages} />
+			{/* <SkillLayout title='Languages' skills={languages} /> */}
 			<SkillLayout title='Frontend' skills={frontend} />
 			<SkillLayout title='Backend' skills={backend} />
 			<SkillLayout title='Others' skills={others} />
