@@ -34,7 +34,7 @@ This last tidbit isn't really a feature but I really would've wanted more time t
 Despite these shortcomings, I'm happy with the result of the game. I could've polished the art a bit more and made custom screens for restarting and completing the game but it's good enough.
 
 #### Update!
-The final build of the game is out and the dev log can be found [here](../devlog-1).
+The final build of the game is out and the dev log can be found [here](../devlog-3).
 
 ### Credits
 Andre Rivera - Artist, Designer

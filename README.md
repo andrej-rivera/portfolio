@@ -1,4 +1,8 @@
 # Astro Resume
+Hello! I'm Andre and this is my portfolio website. This project has served as my introductory course to Astro and Tailwind as I dip my toes into web development.
+
+My portfolio is currently being hosted on netlify at the following link:
+[https://andre-rivera.netlify.app/](https://andre-rivera.netlify.app/)
 
 ## Features
 
@@ -19,7 +23,7 @@
 
 - [astro-theme-cactus](https://github.com/chrismwilliams/astro-theme-cactus) for blog design
 - [minirezume-framer](https://minirezume.framer.website/) for resume homepage design
-
+- [astro-theme-resume](https://github.com/srleom/astro-theme-resume) for base resume template
 ## Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
