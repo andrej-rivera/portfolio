@@ -11,7 +11,7 @@ Hello again! This blog is a continuation of [*A Slime's Small Adventure - A Fini
 
 ## The Second Level
 ### Workflow Change
-![Alt text](./Unity_7KAJuX0Arm.gif)
+![Alt text](tilegif-comp.gif)
 
 Before going into the design of the second level, I'll first go over some workflow changes that I made which allowed me to make Level Two a lot better than Level One. 
 
@@ -44,7 +44,7 @@ In Level Two, there are two puzzles that a player must complete to finish the le
 In this new type of puzzle, it utilizes the concepts of a lever (think seesaw!) and relies on Unity's Physics engine to work. It's not a particually hard puzzle to understand since all you need is a basic grasp of how a seesaw works but I feel like it'll really open up the gateway to more complex puzzles in the future.
  
 ### New Camera System
-![Alt text](./Unity_4QkyKvQUCc.gif)
+![Alt text](camera.gif)
 
 The vertical design of Level Two required some tweaks to the Camera system. With the new camera, it'll lock onto specific areas of interest when the player gets close enough. It also stops the camera from going outside of the map by allowing it to move independently from the player (stops followng when player approaches a wall). As of now, it's not the best that it can be but I think it does a good job of guiding players towards places that they need to go.
 
